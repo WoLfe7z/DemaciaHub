@@ -12,3 +12,7 @@ temp/
 .cache/
 
 *.log
+# Rezultati gradnje in testov
+dist/
+coverage/
+app.zip

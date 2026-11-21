@@ -2,7 +2,7 @@
 
 [![CI/CD](https://github.com/WoLfe7z/DemaciaHub/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/WoLfe7z/DemaciaHub/actions/workflows/ci-cd.yml)
 
-**Nameščena aplikacija:** https://DOPOLNI-IME-APLIKACIJE.azurewebsites.net
+**Nameščena aplikacija:** https://demaciahub-b3drfvggdydhbxhe.italynorth-01.azurewebsites.net
 
 DemaciaHub je spletna aplikacija za organizacijo in upravljanje turnirjev v igri League of Legends. Namenjena je igralcem, ekipam in organizatorjem turnirjev.
 

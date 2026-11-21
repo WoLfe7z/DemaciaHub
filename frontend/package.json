@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Testi za staticni frontend DemaciaHub",
+  "scripts": {
+    "test": "jest --coverage --coverageDirectory=coverage"
+  },
+  "jest": {
+    "testEnvironment": "jsdom",
+    "collectCoverageFrom": [
+      "js/auth.js",
+      "js/create-tournament.js",
+      "js/tournaments.js",
+      "js/config.js"
+    ],
+    "coverageReporters": [
+      "text",
+      "lcov",
+      "json-summary"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^30.5.2",
+    "jest-environment-jsdom": "^30.5.2"
+  }
+}
